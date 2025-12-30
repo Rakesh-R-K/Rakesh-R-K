@@ -81,7 +81,7 @@ React · Node.js · Express · Docker · Git
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Rakesh-R-K?template=terminal&languages=1&isocalendar=1&activity=1&achievements=1&base=header%2Cactivity&languages.limit=8&languages.colors=github&theme=dark" />
+  <img width="100%" src="https://metrics.lecoq.io/Rakesh-R-K?template=terminal&base=header%2Cactivity&languages=1&isocalendar=1&activity=1&achievements=1&languages.limit=10&languages.threshold=0%25&languages.colors=github&theme=dark" />
 </p>
 
 ---
