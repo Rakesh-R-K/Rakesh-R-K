@@ -70,14 +70,6 @@ React · Node.js · Express · Docker · Git
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh-R-K&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-</p>
-
----
-
 ## 📈 GitHub Metrics
 
 <p align="center">
