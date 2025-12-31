@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;CTF+Player+%7C+Pentester;Network+Security+%26+Linux;Learning+by+Breaking+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;CTF+Player+%7C+Pentester;Network+Security+%26+Linux;Learning+by+Breaking+Systems" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,16 @@ I learn by **building, breaking, analyzing, and documenting** systems.
 - ⚡ Fun fact: I treat CTFs like digital treasure hunts 🏴‍☠️
 
 ---
+## 🖥️ System Status
 
+```text
+[ OK ] GitHub profile active
+[ OK ] Security projects in progress
+[ OK ] CTF practice ongoing
+[ OK ] Linux & networking focus
+[ OK ] Open to collaboration
+```
+---
 ## 🛡️ Focus Areas
 
 - Penetration Testing & CTFs  
@@ -57,15 +66,7 @@ React · Node.js · Express · Docker · Git
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-R-K&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh-R-K&theme=shadow_green&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-R-K&theme=shadow_green&hide_border=false&layout=compact" />
 </p>
 
 ---
@@ -95,10 +96,6 @@ React · Node.js · Express · Docker · Git
 [Reddit](https://www.reddit.com/user/_RoRoNoA_ZoRo_1829/) ·
 [X](https://x.com/RakeshR71871260)
 
----
 
 > *“Security is not a product, but a process.” — Bruce Schneier*
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rakesh-R-K&icon=0&color=0" />
-</p>
