@@ -63,23 +63,6 @@ React · Node.js · Express · Docker · Git
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rakesh-R-K&theme=shadow_green&hide_border=false" />
-</p>
-
----
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/Rakesh-R-K?template=terminal&base=header%2Cactivity&languages=1&isocalendar=1&theme=dark" />
-</p>
-
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
