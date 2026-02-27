@@ -11,18 +11,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a Computer Science undergraduate with a strong interest in **cybersecurity, network security, and system-level programming**.  
 I learn by **building, breaking, analyzing, and documenting** systems.
 
-- 🔭 Currently working on **cybersecurity & networking projects**
-- 👯 Open to collaborating on **security tools, CTFs, and open-source projects**
-- 🌱 Learning **offensive security, Linux internals, and cryptography**
-- ⚡ Fun fact: I treat CTFs like digital treasure hunts 🏴‍☠️
+-  Currently working on **cybersecurity & networking projects**
+-  Open to collaborating on **security tools, CTFs, and open-source projects**
+-  Learning **offensive security, Linux internals, and cryptography**
+-  Fun fact: I treat CTFs like digital treasure hunts 🏴‍☠️
 
 ---
-## 🖥️ System Status
+##  System Status
 
 ```text
 [ OK ] GitHub profile active
@@ -32,7 +32,7 @@ I learn by **building, breaking, analyzing, and documenting** systems.
 [ OK ] Open to collaboration
 ```
 ---
-## 🛡️ Focus Areas
+##  Focus Areas
 
 - Penetration Testing & CTFs  
 - Network Security & Packet Analysis  
@@ -41,16 +41,16 @@ I learn by **building, breaking, analyzing, and documenting** systems.
 
 ---
 
-## 🚧 Featured Projects
+##  Featured Projects
 
-- 🔐 **GhostNet** — Encrypted file transfer over covert DNS tunneling  
-- 🧪 **Colddbox Pentesting** — Complete VulnHub penetration testing report  
-- ⚙️ **ai4kali** — AI-assisted automation toolkit for Kali Linux  
-- 🧠 **OWASP Top 10** — Security notes with practical demonstrations  
+-  **GhostNet** — Encrypted file transfer over covert DNS tunneling  
+-  **Colddbox Pentesting** — Complete VulnHub penetration testing report  
+-  **ai4kali** — AI-assisted automation toolkit for Kali Linux  
+-  **OWASP Top 10** — Security notes with practical demonstrations  
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages & Scripting**  
 C · Python · Bash · JavaScript  
@@ -63,7 +63,7 @@ React · Node.js · Express · Docker · Git
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rakesh-R-K/Rakesh-R-K/output/github-contribution-grid-snake-dark.svg" />
@@ -71,7 +71,7 @@ React · Node.js · Express · Docker · Git
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/rakesh-r-k-33a116330/) ·
 [Medium](https://medium.com/@8055.rakeshrk) ·
